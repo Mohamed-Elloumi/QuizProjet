@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "757807835312",
+    "project_id": "projet-40b07",
+    "storage_bucket": "projet-40b07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757807835312:android:3703e0b7f1fff1ac95b375",
+        "android_client_info": {
+          "package_name": "com.example.flutterquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIuERYkBvCvN9DhBOBTVMCWvrtWk4M2HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757807835312:android:9c46f9b092795b7295b375",
+        "android_client_info": {
+          "package_name": "com.example.loumiprojet11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIuERYkBvCvN9DhBOBTVMCWvrtWk4M2HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757807835312:android:59788dbd5a2cc97595b375",
+        "android_client_info": {
+          "package_name": "com.example.projet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIuERYkBvCvN9DhBOBTVMCWvrtWk4M2HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
